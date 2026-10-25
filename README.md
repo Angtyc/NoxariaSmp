@@ -1,0 +1,2 @@
+# NoxariaSmp
+Minecraft server
